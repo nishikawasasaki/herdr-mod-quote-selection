@@ -2,6 +2,8 @@
 
 A brief another agent can use to build this mod from an empty folder. The files beside it are one implementation. Read the installed `~/.config/herdr-app/AGENTS.md`, `herdr.d.ts` and `gpui-kit.d.ts` first; never edit generated files or shipped mods.
 
+![Quote Selection](preview.png)
+
 ## What you see
 
 Select terminal text in Claude Code or Codex, then press Cmd+Shift+A. The selected text appears at the end of the same terminal's draft as Markdown blockquote lines. A blank line below the quote is ready for the reply. Keep the existing draft and never submit it.
