@@ -40,8 +40,6 @@ Read your installed `~/.config/herdr-app/AGENTS.md` and every file in this repos
 
 Check existing bindings in `global`, `terminal`, and any `layout:<name>` sections. If Cmd+Shift+A is already assigned, choose another key. Preserve all unrelated settings. No layout or `terminal_menu` changes are required.
 
-If you use the older `reply-annotation` prototype, no migration or configuration changes are performed automatically. Use a different shortcut to compare the two, then choose which binding to keep.
-
 3. Run `herdr-app check ~/.config/herdr-app/mods/quote-selection`.
 4. Try a disposable session and confirm that your draft is preserved, the cursor ends below the quote, and nothing is submitted.
 
