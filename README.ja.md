@@ -2,7 +2,7 @@
 
 [English](README.md) | 日本語
 
-Herdr App の Claude Code／Codex で、選択した文章を入力欄へ引用する Mod です。
+[Herdr App](https://herdr.dev) の Claude Code／Codex で、選択した文章を入力欄へ引用する Mod です。
 
 1. ターミナルの文章を選択してください。アプリがマウスを使う場合は Shift を押しながら選択してください。
 2. 同じターミナルにフォーカスしたまま **Cmd＋Shift＋A** を押してください。
@@ -82,3 +82,7 @@ node --test annotation.test.mjs
 ```
 
 API や表示形式が変わった場合の再構築用ブリーフは [RECIPE.md](RECIPE.md) に記載しています。公式の配布条件は [Herdr Mods](https://herdr.dev/mods/)、構成例は [Tmux prefix](https://herdr.dev/mods/herdrdev/tmux-prefix/) を参照してください。
+
+## ライセンス
+
+[MITライセンス](LICENSE)

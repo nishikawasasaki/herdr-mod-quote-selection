@@ -2,7 +2,7 @@
 
 English | [日本語](README.ja.md)
 
-Quote selected terminal text into Claude Code and Codex drafts in Herdr App.
+Quote selected terminal text into Claude Code and Codex drafts in [Herdr App](https://herdr.dev).
 
 1. Select text in the terminal. Hold Shift while selecting if the application captures mouse events.
 2. Keep that terminal focused and press **Cmd+Shift+A**.
@@ -82,3 +82,7 @@ node --test annotation.test.mjs
 ```
 
 [RECIPE.md](RECIPE.md) describes how to rebuild the Mod if APIs or terminal rendering change. See [Herdr Mods](https://herdr.dev/mods/) for the official package format and [Tmux prefix](https://herdr.dev/mods/herdrdev/tmux-prefix/) for an example.
+
+## License
+
+[MIT License](LICENSE)
